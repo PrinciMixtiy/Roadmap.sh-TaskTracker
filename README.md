@@ -2,6 +2,10 @@
 
 A simple command-line task tracking tool written in Python. This tool allows you to manage your tasks by adding, updating, deleting, and marking them as in progress or done. Tasks are stored in a `JSON` file, and each task has a unique ID that is auto-incremented.
 
+## Roadmap Project URL
+
+`https://roadmap.sh/projects/task-tracker`
+
 ## Features
 
 - [x] Add, Update, and Delete tasks
